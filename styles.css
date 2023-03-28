@@ -1,4 +1,6 @@
-
+*{
+	border: 0px;
+}
 #btn{
 	background-color:black;
 	color:white;
